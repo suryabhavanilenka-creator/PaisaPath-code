@@ -236,7 +236,7 @@ repository secrets first (GitHub → Settings → Secrets and variables):
 
 *All three members contributed to testing and the live demonstration.*
 K. Lakshmi Prasanna: tested the CSV export flow on web and Android and reported the export defect.
-M. Divya: tested the CSV export flow on web and Android and reported the export defect.
+M. Divya: also tuned the dashboard greeting and month-chip behaviour during testing.tested the CSV export flow on web and Android and reported the export defect.
 M. Divya: also verified the export file opens correctly on Android.
 
 ## 11. Defects & incident log
