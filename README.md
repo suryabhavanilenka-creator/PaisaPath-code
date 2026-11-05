@@ -235,7 +235,7 @@ repository secrets first (GitHub → Settings → Secrets and variables):
 | **M. Divya** | Forms, details & data tools | Add/Edit expense form with full validation, expense detail screen (edit/delete), CSV export (Android file + web download), settings screen (theme selection, clear data, about) |
 
 *All three members contributed to testing and the live demonstration.*
-K. Lakshmi Prasanna: also tuned the dashboard greeting and month-chip behaviour during testing.
+K. Lakshmi Prasanna: tested the CSV export flow on web and Android and reported the export defect.
 M. Divya: tested the CSV export flow on web and Android and reported the export defect.
 M. Divya: also verified the export file opens correctly on Android.
 
