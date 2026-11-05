@@ -74,3 +74,5 @@ android/build/
 # Machine-specific paths should never leave the build machine.
 # (The android/ copy is already excluded by android/.gitignore.)
 /local.properties
+.vercel
+.env*
