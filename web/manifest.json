@@ -1,0 +1,36 @@
+﻿{
+    "name": "PaisaPath - Expenses Tracker",
+    "short_name": "PaisaPath",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FAF5ED",
+    "theme_color": "#40243F",
+    "description": "Your offline-first personal finance tracker. Your Money. Your Path. Your Control.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
+
